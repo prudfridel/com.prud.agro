@@ -7,3 +7,11 @@
 ...bash
 git init
 remote add origin SSH_Repo
+
+
+## Rediger un commit
+
+
+Titre du commit
+
+Description de notre commit avec les informations sur l'evolution du projet

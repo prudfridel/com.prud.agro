@@ -20,7 +20,7 @@ Description de notre commit avec les informations sur l'evolution du projet
 #  envoyer un commit sur le depot distant
 
 git add .
-git commit -m "first commit"
+git commit -m "titre du commentaire"
 git push origin main
 
 

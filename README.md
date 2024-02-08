@@ -32,3 +32,7 @@ git push origin main
 git checkout -b NOM_BRANCHE
 
 ....
+
+
+
+Pour les bonnes pratiques ont vas intégrés la notions de revus de code.
